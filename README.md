@@ -41,13 +41,13 @@
 <table>
  <tr>
     <td align="center"><a href="https://github.com/gyeongpunch"><img src="https://avatars.githubusercontent.com/gyeongpunch" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/gyeongpunch"><img src="https://avatars.githubusercontent.com/gyeongpunch" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/KimMinjuAstro"><img src="https://avatars.githubusercontent.com/KimMinjuAstro" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/gyeongpunch"><img src="https://avatars.githubusercontent.com/gyeongpunch" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/gyeongpunch"><img src="https://avatars.githubusercontent.com/gyeongpunch" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/gyeongpunch"><b>gyeongpunch</b></a></td>
-    <td align="center"><a href="https://github.com/gyeongpunch"><b>gyeongpunch</b></a></td>
+    <td align="center"><a href="https://github.com/KimMinjuAstro"><b>KimMinjuAstro</b></a></td>
     <td align="center"><a href="https://github.com/gyeongpunch"><b>gyeongpunch</b></a></td>
     <td align="center"><a href="https://github.com/gyeongpunch"><b>gyeongpunch</b></a></td>
   </tr>
